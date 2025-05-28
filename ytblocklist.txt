@@ -52,3 +52,5 @@
 0.0.0.0 clicktrack.pubmatic.com
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 pool.admedo.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 youtubei.googleapis.com
